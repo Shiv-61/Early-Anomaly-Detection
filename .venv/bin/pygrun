@@ -1,4 +1,4 @@
-#!/home/shiv-gowda/Projects/.venv/bin/python3
+#!/home/shiv-gowda/Anomaly Detection/.venv/bin/python
 __author__ = 'jszheng'
 import optparse
 import sys

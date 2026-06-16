@@ -1,4 +1,6 @@
-#!/home/shiv-gowda/Projects/.venv/bin/python3
+#!/bin/sh
+'''exec' "/home/shiv-gowda/Anomaly Detection/.venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
