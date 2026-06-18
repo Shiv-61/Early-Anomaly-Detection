@@ -35,6 +35,6 @@ services:
     ports:
       - "5433:5432"
     environment:
-      POSTGRES_DB: creditrisk
-      POSTGRES_USER: admin
-      POSTGRES_PASSWORD: admin123
+      POSTGRES_DB: ${your_postgres_db}
+      POSTGRES_USER: ${your_username}
+      POSTGRES_PASSWORD: ${your_password}
